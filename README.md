@@ -1,3 +1,4 @@
+![Mitosis Images](mitosis-images.png)
 # Mitosis Classification | SOFTEC'24 AI Challenge Solution
 
 This repository contains my solutions for the SOFTEC'24 AI Challenge, aimed at automating the classification of mitotic cells from provided image datasets. The competition was held in two rounds, each with its distinct set of challenges and requirements.
